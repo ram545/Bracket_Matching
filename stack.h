@@ -1,5 +1,5 @@
 /**********************************************************************
-* FILENAME:        stack.cpp
+* FILENAME:        stack.h
 *
 * DESCRIPTION/PURPOSE:
 * Design and implementation of stack
@@ -80,11 +80,3 @@ public:
         return top+1;
     }
 };
-
-
-
-
-
-
-
-
