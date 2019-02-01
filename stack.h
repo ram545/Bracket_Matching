@@ -5,8 +5,8 @@
 * Design and implementation of stack
 *
 * AUTHOR: 20020298 | Rama Krishna | sabbella.krishna@wipro.com
-* START DATE: 01/31/2019
-* SUBMISSION DATE: 01/31/2019
+* START DATE: 02/01/2019
+* SUBMISSION DATE: 02/01/2019
 **********************************************************************/
 #include<iostream>
 #include<cstring>
